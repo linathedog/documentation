@@ -81,6 +81,7 @@ cff
 cfg
 cfssl
 cfssljson
+checkbox
 chipster
 ciemat
 cilogon
@@ -98,6 +99,7 @@ cloudkey
 clouduser
 cmdb
 cmfs
+cms
 cmssw
 cnaf
 cnrs
@@ -395,6 +397,8 @@ mpi
 MQS
 multiattach
 multidisk
+Multisite
+Multisites
 mycluster
 myemail
 myenv
@@ -474,6 +478,7 @@ oph
 ophuser
 orcid
 organisations
+OSG
 osidle
 ost
 OTHERDESCR
@@ -490,6 +495,7 @@ peachnote
 perun
 Petabytes
 Phedex
+PITHIA
 pkce
 plgrid
 podman
@@ -544,7 +550,6 @@ RWO
 rxtx
 Sars
 sbdii
-scai
 schedd
 scipy
 scotgrid
@@ -577,6 +582,7 @@ softver
 somekey
 sourcing
 southgrid
+spam
 srce
 srm
 srun
@@ -702,6 +708,7 @@ wlcgname
 WMS
 wns
 workdir
+workaround
 wps
 wroc
 WSGI
